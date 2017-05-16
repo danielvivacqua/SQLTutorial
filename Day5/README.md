@@ -1,0 +1,1 @@
+ - [Practice](https://github.com/danielvivacqua/SQLTutorial/blob/master/Resources/SQL%20in%207.%20Day%205.%20Practice..pdf)
