@@ -1,0 +1,2 @@
+ - [Inserting Sets of Data Video](https://github.com/danielvivacqua/SQLTutorial/blob/master/Resources/Inserting%20sets.mp4)
+ - [Inserting Sets of Data Slides](https://github.com/danielvivacqua/SQLTutorial/blob/master/Resources/Inserting%20Sets%20of%20Data.pdf)
