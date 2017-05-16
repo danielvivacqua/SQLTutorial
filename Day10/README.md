@@ -1,0 +1,2 @@
+ - [Subqueries Video](https://youtu.be/YCqQyWf_k5g)
+ - [Subqueries Slides](https://github.com/danielvivacqua/SQLTutorial/blob/master/Resources/Subqueries.pdf)
