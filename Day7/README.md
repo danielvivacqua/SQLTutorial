@@ -1,1 +1,3 @@
 - [OUTER JOINS Video and Practice](https://github.com/danielvivacqua/SQLTutorial/blob/master/Resources/SQL%20in%207.%20Day%207.%20OUTER%20JOINS.%20Video%20%26%20Practice.pdf)
+- [More OUTER JOINS video](https://youtu.be/sbroy5dK03c)
+- [Complex OUTER JOINS with 3 or More Tables video](https://youtu.be/csKNt_9kd3Q)
