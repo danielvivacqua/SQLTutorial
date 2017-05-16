@@ -1,1 +1,1 @@
-- [OUTER JOINES Video and Practice](https://github.com/danielvivacqua/SQLTutorial/blob/master/Resources/SQL%20in%207.%20Day%207.%20OUTER%20JOINS.%20Video%20%26%20Practice.pdf)
+- [OUTER JOINS Video and Practice](https://github.com/danielvivacqua/SQLTutorial/blob/master/Resources/SQL%20in%207.%20Day%207.%20OUTER%20JOINS.%20Video%20%26%20Practice.pdf)
