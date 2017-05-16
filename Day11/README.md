@@ -1,0 +1,3 @@
+ - [Filtering Grouped Data](https://github.com/danielvivacqua/SQLTutorial/blob/master/Resources/Filtering%20Grouped%20Data.pdf)
+ - [GROUP BY Video](https://youtu.be/I-P-9BQuX9Y)
+ - [GROUP BY Slides](https://github.com/danielvivacqua/SQLTutorial/blob/master/Resources/Group%20By.pdf)
