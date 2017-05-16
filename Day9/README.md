@@ -1,0 +1,1 @@
+- [Coalesce](https://docs.google.com/presentation/d/1ajZLPBpguwHGBr2tKGDsKXdoYeHd8PWQ25h5lR19-Zo/edit?usp=sharing)
