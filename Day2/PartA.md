@@ -1,1 +1,0 @@
- - [Simple SQL Queries](https://github.com/danielvivacqua/SQLTutorial/blob/master/Resources/Day%202.%20Part%20A%20SQL%20Basics%20and%20Creating%20a%20Simple%20Query.pdf)
